@@ -38,4 +38,4 @@ function updateProgressBar() {
 
 document.addEventListener("scroll", updateProgressBar);
 
-updateProgressBar();
+updateProgressBar(); // also... der ganze bums klappt... aber ich weiß nicht wieso, also muss ich mir auf jeden fall nochmal anschauen, warum das ganze hier klappt.
